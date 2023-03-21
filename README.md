@@ -8,7 +8,7 @@ Rerun the whole Jupyter Notebook before checking the work! And do not forgot to 
 # Contents
 [1) The main goal of the study](#the-main-goal-of-the-study)\
 [2) Brief information about the data](#brief-information-about-the-data)\
-[3) Steps to achieve the goal](#steps-to-achieve-the-goal)\
+[3) Steps to achieve the goal](#steps-to-achieve-the-goal)
 
 
 ### The main goal of the study 
